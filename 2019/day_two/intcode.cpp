@@ -1,7 +1,5 @@
 #include <iostream>
 
-//Answer = 3306701
-
 using namespace std;
 
 int runProgram(int program[], int start);
