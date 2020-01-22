@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string.h>
 
-//Answer = 7621
-
 using namespace std;
 
 int runProgram(int program[], int start);
